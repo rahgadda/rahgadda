@@ -2,7 +2,9 @@
 <p><a href="mailto:gaddam.rahul@gmail.com">Email Me</a></p> <br/>
 
 ![Rahul' github stats](https://github-readme-stats.vercel.app/api?username=rahgadda&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&layout=compact)
-![Rahul' top langs](https://github-readme-stats.vercel.app/api/top-langs?username=rahgadda&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact)
+![Rahul' top langs](https://github-readme-stats.vercel.app/api/top-langs?username=rahgadda&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=swift,scss&langs_count=10&layout=compact) 
+
+<br/>
 
 ## My Current Obsession
 - [Svelet](https://github.com/rahgadda/Svelte)
