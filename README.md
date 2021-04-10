@@ -1,5 +1,5 @@
 # Rahul Kiran Gaddam - Product Manager, Tech Enthusiast
-<p><a href="mailto:gaddam.rahul@gmail.com">Email Me</a></p> <br/><br/><br/>
+<p><a href="mailto:gaddam.rahul@gmail.com">Email Me</a></p> <br/>
 
 ## My Current Obsession
 - [Svelet](https://github.com/rahgadda/Svelte)
@@ -7,6 +7,7 @@
 - [Deeplearning](https://github.com/rahgadda/Deeplearning)
 - [Others](https://github.com/rahgadda?tab=repositories)
 
+<br/>
 ## Work Experience
 
 ### Oracle Financial Services
@@ -20,7 +21,7 @@
 - Expertise in designing complex integrations in Lending and leasing domains [Eventing, Webhook, Credit Bureaus, Decision Engines, Pricing Optimizations, Alternate Credit Bureaus, Collection Agencies, Auction Houses, Repossession Vendors]
 - Good working understanding of Oracle and other cloud vendors IaaS, PaaS, and SaaS products.
 - Good working knowledge on trends like Deep learning[AI], React/Svelte[UI], Kafka[Messaging], Camel[Integrations] , Kogito [BPMN/DMN], Keycloak [Identify], Kubernetes[Containers/CI/CD], Go/Python/Java Microservices & Cloud fundamentals. 
-
+<br/>
 ### DecisivEdge
 #### Sr Software Engineer, Aug 2014 to May 2016
 - Worked for Oracle as a consultant and acquire knowledge on Lending and Leasing [OFSLL]
@@ -28,7 +29,7 @@
 - Designed and developed integrations between OFSLL & Flexcube Core banking solutions and actively participated in customer go-live.
 - Built complex features starting from requirement documentation to automation testing and customer implementation.
 - Provide application training to new team members and onsite sales consultants.
-
+<br/>
 ### Wipro Technologies
 #### Sr Software Enginner, March-2008 to Feb-2014
 - Worked as consultant for different client like 3uk, T-Mobile, Ericson,  DiGi Mobile Malaysia.
